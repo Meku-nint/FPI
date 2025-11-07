@@ -1,0 +1,5 @@
+Functional Programming (FP) is a way of writing code where you build programs using pure functions and avoid changing data or state.
+
+Instead of telling the computer how to do something (step by step like in imperative programming), you describe what you want to do.
+
+It’s based on mathematical functions, meaning:
